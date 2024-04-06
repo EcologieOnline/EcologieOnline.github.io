@@ -103,7 +103,7 @@
             "background" : "bonne_pratique_recharge_batterie",
             "dialogue" : [
                     {
-                        "text" : "Il est conseillé de débrancher dès lors que la batterie de l’ordinateur portable atteint 80 %. Cette habitude permet à l’utilisateur de pérenniser et de conserver une bonne qualité et performance de l’ordinateur ainsi que de la batterie. Des conséquences peuvent impacter également environnement. L’agent ne doit jamais laisser la batterie en charge inutilement"
+                        "text" : "Il est conseillé de débrancher dès lors que la batterie de l’ordinateur portable atteint 80 %. Cette habitude permet à l’utilisateur de pérenniser et de conserver une bonne qualité et performance de l’ordinateur ainsi que de la batterie. Les conséquences de ce geste auront un impact sur l'environnement. L’agent ne doit jamais laisser la batterie en charge inutilement"
                     },
                     {
                         "text" :  "L’agent ne doit jamais laisser la batterie en charge inutilement. Lors du chargement, la batterie et l'ordinateur portable ne doivent pas être situés dans un endroit ou lieu, face au soleil ou dans une pièce très froide. La différence de température peut avoir des effets néfastes.  "
