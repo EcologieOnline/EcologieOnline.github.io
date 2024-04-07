@@ -34,6 +34,8 @@ function proceedToTest() {
   
   btnProceed.onclick = () => {    
     
+    localStorage.setItem('pseudo', pseudo.value)
+    localStorage.setItem('administration', "FRA")
     location.href = "/";
     
   };
