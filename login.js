@@ -1,3 +1,8 @@
+//tmp redirect 
+
+location.href = "https://ecologyonline.fr/"
+
+
 // const myInput = document.querySelector("#start-checkbox");
 
 
