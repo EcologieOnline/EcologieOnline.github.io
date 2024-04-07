@@ -6,7 +6,7 @@
         "description" : "Dans le scénario, vous êtes au bureau de la CID où un agent rapporte que son PC ne se charge plus. Puis vous effecturer un diagnostic"
     },
     {
-        "nom" : "Organiser son environnement de travai",
+        "nom" : "Organiser son environnement de travail",
         "auteurs" : [""],
         "file" : "./public/scénario/Organiser son environnement de travail.json",
         "description" : "Parlons photocopies et impressions ! "
