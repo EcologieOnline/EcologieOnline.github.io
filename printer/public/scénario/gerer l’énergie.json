@@ -30,7 +30,7 @@
                                 "next" : ["sc2_charge_complète" ]
                             },
                             {
-                                "text" : "Laisser brancher",
+                                "text" : "Laisser branché",
                                 "next" : ["sc1_charge_partielle" ]
                             }
                         ]
